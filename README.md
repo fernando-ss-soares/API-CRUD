@@ -1,6 +1,6 @@
 # Taskify
 
-> Back-end projeto de To do (Taskify)
+> Back-end - Projeto To do (Taskify)
 
 ### Ajustes e melhorias
 
